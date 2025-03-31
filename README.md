@@ -7,9 +7,11 @@ This project applies **logistic regression** to classify **Iris flowers** into t
 
 ✅ **Accuracy:** **1.0** (Perfect classification)  
 
-✅ **Confusion Matrix:**  [[10 0 0]
+✅ **Confusion Matrix:**  
+[[10 0 0]
 [ 0 9 0]
 [ 0 0 11]]
+
 ✅ **Classification Metrics:**  
 - **Precision, Recall, and F1-Score:** **1.00** for all species  
 - **Overall Accuracy:** **100%**  
